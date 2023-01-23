@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99px" height="32px" viewBox="0 0 99 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sponsor-button</title>
+    <g id="sponsor-button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.26325641e-14,4 C4.26325641e-14,1.79 1.88349698,0 4.19708337,0 L94.8035828,0 C97.1171691,0 99.0003209,1.79 99.0003209,4 L99.0003209,28 C99.0003209,30.21 97.1171691,32 94.8035828,32 L4.19708337,32 C3.06974059,31.9868228 1.99421431,31.5579719 1.20715391,30.807808 C0.420093516,30.057644 -0.0140151934,29.0476298 4.26325641e-14,28 L4.26325641e-14,4 Z" id="Path" fill="#FF597B" fill-rule="nonzero"></path>
+        <polygon id="Path" fill="#E6506F" fill-rule="nonzero" points="31.0003209 32 31.0003209 0 32.0003209 0 32.0003209 32"></polygon>
+        <text id="Sponsor" font-family="Inter-Medium, Inter" font-size="13" font-weight="400" letter-spacing="-0.02" fill="#FFFFFF">
+            <tspan x="39" y="21">Sponsor</tspan>
+        </text>
+        <g id="sv" transform="translate(9.000000, 10.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M11.7381716,0.829633954 C10.3467921,-0.435134566 8.27749602,-0.207638729 7.00037215,1.19796055 L6.50018646,1.74774215 L6,1.19796055 C4.72541592,-0.207638729 2.65358078,-0.435134566 1.26220129,0.829633954 C-0.332299279,2.28127405 -0.41608673,4.88664304 1.01083894,6.46015591 L5.92383036,11.8713069 C6.24120707,12.2206755 6.75662684,12.2206755 7.07400354,11.8713069 L11.986995,6.46015591 C13.4164596,4.88664304 13.3326722,2.28127405 11.7381716,0.829633954 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
